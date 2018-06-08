@@ -1,0 +1,49 @@
+<style>
+@media screen and (max-width: 500px){
+  .icondesktop{
+  	display: none !important;
+    max-width: 0px !important;
+    width: 0px !important;
+  }
+}
+</style>
+<div id="desktopview">
+<table style="border:none;" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="border:none; vertical-align:" valign="top">
+          <div><img class="icondesktop" src="https://gallery.mailchimp.com/11e239951f421df7d77233e18/images/c3cb4b6d-5d77-42d8-afc4-d410a219bdb7.png" style="padding: 30px 40px 20px 60px; max-width: 85px; width: 100%; display: block"/></div>
+      </td>
+      <td style="border:none; vertical-align:top; padding-top: 30px" valign="top">
+        <div style="font:13pt Lato;" align="left" valign="top"><strong><span style="letter-spacing: 2px; font-size: 12px; padding-top: 20px">EASILY ORDER DELIVERY</span></strong></div><div style="font:16pt Lato;" align="left" valign="top">Find <strong style="color: #C32B37;">Hudson’s Cafes</strong> on the app store.</div>
+        <div style="">
+<a href="itunes.apple.com"><img src="https://gallery.mailchimp.com/11e239951f421df7d77233e18/images/1655c132-36d9-49e0-be9c-0976df186fe9.png" style="float: left!important;  display: block; width: 110px; padding: 5px 10px 10px 0px !important; max-width: 110px!important;" class="mcnImage"></a>
+<a href="play.google.com"><img src="https://gallery.mailchimp.com/11e239951f421df7d77233e18/images/05f402bc-d3f9-4281-a9bd-fb124abc913e.png" style="float: left !important; display: block!important; width: 110px; padding: 5px 10px 0px 0px !important;max-width: 110px!important;"></a> </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!--MOBILE VIEW>
+
+<div id="mobileview" style="visbility: hidden; display:none;">
+<center>
+<table style="border:none;" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="border:none; vertical-align:" valign="top">
+          <div></div>
+      </td>
+      <td style="border:none; vertical-align:top; padding-top:30px" valign="top">
+      <img src="https://gallery.mailchimp.com/11e239951f421df7d77233e18/images/c3cb4b6d-5d77-42d8-afc4-d410a219bdb7.png" style="margin-left: auto; margin-right: auto; display: block;" alt="" width="85"/>
+        <div style="font:13pt Lato;" align="left" valign="top"><strong><span style="letter-spacing: 2px; font-size: 12px; padding: 25px 20px 10px 20px; display: block;">EASILY ORDER DELIVERY</span></strong></div><div style="font:16pt Lato; padding: 10px 20px 10px 20px !important;" valign="top">Find <strong style="color: #C32B37;">Hudson’s Cafes</strong> on the app store.</div>
+        <div style="">
+<a href="itunes.apple.com"><img src="https://gallery.mailchimp.com/11e239951f421df7d77233e18/images/1655c132-36d9-49e0-be9c-0976df186fe9.png" style="display: block; width: 150px; padding: 10px !important; margin-left: auto; margin-right: auto"></a>
+
+<a href="play.google.com"><img src="https://gallery.mailchimp.com/11e239951f421df7d77233e18/images/05f402bc-d3f9-4281-a9bd-fb124abc913e.png" style=" display: block!important; width: 150px; padding:  10px !important; margin-left: auto; margin-right: auto"></a> </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</div-->
